@@ -1,5 +1,5 @@
 # BrainVault
-Remember a 128-bit AES key in 5 minutes.
+Memorize a 128-bit AES key in 5 minutes.
 
 I designed a mnemonic scheme inspired by the [PAO technique](https://en.wikipedia.org/wiki/Mnemonic_peg_system#The_PAO_System) and the [Method of loci](https://en.wikipedia.org/wiki/Method_of_loci) used by memory competition athletes.
 
